@@ -831,7 +831,7 @@ align-items: center;
         font: 600 2.5vmax "montserrat";
     }
     .p9-right > p{
-        font: 100 1.5vmax "montserrat";
+        font: 300 1.5vmax "montserrat";
         margin: 1vmax 0;
     }
     .p9-right > ul{
@@ -839,7 +839,7 @@ align-items: center;
      margin-top: 2vmax;
     }
     .p9-right li{
-        font: 100 1.1vmax "montserrat";
+        font: 300 1.1vmax "montserrat";
         margin-bottom: 1vmax;
     }
     /* --------------page10 start---------- */
